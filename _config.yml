@@ -6,7 +6,7 @@ url: http://emsym.github.io
 title: EMSYM
 subtitle: A blogging framework for hackers.
 author: YuMin
-simple_search: https://www.google.com/search
+#simple_search: https://www.google.com/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")

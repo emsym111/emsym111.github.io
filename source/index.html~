@@ -1,5 +1,6 @@
 ---
 layout: default
+title:  做最开放的嵌入式系统开发平台 
 ---
 
 <div>
@@ -16,8 +17,8 @@ layout: default
 <section id="three-images">
             <div class="container">
                 <header class="body-header">
-                    <h2>EMSYM  昂信嵌入式</h2>
-                    <p><h3>创新的系统创造蓝海，我们为您变为现实 </br>嵌入式系统设计专家，可生产性倡导者</h3></p>
+                    <h1>EMSYM  昂信嵌入式</h1>
+                    <p><h2>创新的系统创造蓝海，我们为您变为现实 </br>嵌入式系统设计专家，可生产性倡导者</h2></p>
                 </header>
                 
                     <div class="img-circle-div">
@@ -49,7 +50,7 @@ layout: default
 </section>
 
 
-<section style="background:#AA7742;text-align:center;">
+<section style="background:#000000;text-align:center;">
             <p><h3>联系我们</h3></p>
 </section>
 

@@ -1,0 +1,202 @@
+---
+layout: default
+title:  关于昂信
+---
+
+<section id="color2">
+            <div class="container" style="position: relative; margin: 15px 0 0 0;">
+             
+               <h2>昂信科技提供一流的嵌入式系统开发平台</h2>
+		</div>
+		
+              <h3>公司主要业务范围：</h3>
+		<ul >
+				<li>嵌入式评估板、开发板</li>
+				<li>教育教学资源</li>
+				<li>嵌入式产品解决方案</li>
+				<li>嵌入式应用产品委托开发</li>
+				</ul>
+		
+            </div>
+</section>
+
+<section class="call-to-action">
+            <div class="cta-container cf">
+               
+            </div>
+</section>
+
+
+
+
+
+
+<section id="color3">
+            <div class="container" style="position: relative; margin: 15px 0 0 0;">
+               <h2>愿景做最开放的嵌入式系统开发平台</h2>
+		</div>
+		
+              <ul style="color: #ffffff; font-size: 20px; line-height: 42px; margin: 3px 0 0 0; font-family: SimHei;">
+			<li>开源的电路设计</li>
+			<li>开放的教材课件，提供开发板配套的教学资源</li>
+			<li>开放的解决方案，提供开放的源代码和源码分析</li>
+			</ul>
+		
+            </div>
+</section>
+
+<section class="call-to-action">
+            <div class="cta-container cf">
+               
+            </div>
+</section>
+
+<section id="color4">
+            <div class="container" style="position: relative; margin: 15px 0 0 0;">
+               <h2>企业委托开发</h2>
+		</div>
+		
+             <ul style=" font-size: 20px; line-height: 42px; margin: 3px 0 0 0; font-family: SimHei;">
+				<li>系统设计</li>
+				<li>PCB设计</li>
+				<li>Linux,Android,pC/OSII开发</li>
+				<li>软件及应用程序开发</li>
+				<li>嵌入式软件及硬件开发技术咨询</li>
+				<li>产品生产服务</li>
+				</ul>
+		
+            </div>
+</section>
+
+<section class="call-to-action">
+            <div class="cta-container cf">
+               
+            </div>
+</section>
+
+<section id="color5">
+            <div class="container" style="position: relative; margin: 15px 0 0 0;">
+               <h2>专注于飞思卡尔、意法等ARM处理器</h2>
+		</div>
+		
+             <ul style="color: #ffffff; font-size: 20px; line-height: 42px; margin: 3px 0 0 0; font-family: SimHei;">
+			<li> 提供评估板、开发板</li>
+			<li>    开放的教学资源</li>
+			<li>提供嵌入式产品解决方案</li>
+			</ul>
+		
+            </div>
+</section>
+
+
+<section id="three-images">
+            <div class="container">
+                <header class="body-header">
+                    <h2>应用领域</h2>
+                    
+                </header>
+                
+                    <div class="img-circle-div">
+                        <img src="/images/about/pb.jpg">
+                        <h4>平板电脑、电子书</h4>
+                       
+                    </div>
+
+                    <div class="img-circle-div">
+                        <img src="/images/about/chez.jpg">
+                        <h4>车载导航、娱乐系统</h4>
+ 
+                    </div>
+
+		    <div class="img-circle-div">
+                        <img src="/images/about/ybp.jpg">
+                        <h4>仪表盘显示</h4>
+                      
+                    </div>
+
+               </div>
+</section>
+
+<section id="three-images">
+            <div class="container">
+               <div class="img-circle-div">
+                        <img src="/images/about/jdh.jpg">
+                        <h4>机顶盒、多媒体娱乐系统</h4>
+                      
+                    </div>
+
+		<div class="img-circle-div">
+                        <img src="/images/about/printer.jpg">
+                        <h4>网络设备、路由器、硬盘录像机、打印机</h4>
+                      
+                </div>
+
+		  <div class="img-circle-div">
+                        <img src="/images/about/rjjh.jpg">
+                        <h4>HML人机交互</h4>
+                      
+                    </div>
+
+		    
+		    
+
+               </div>
+</section>
+
+
+
+
+
+<section class="three-images">
+            <div class="container">
+                <header class="body-header">
+                    <h2>为什么选择昂信</h2>
+                   
+                </header>
+                
+                    <div class="img-circle-div1">
+                        <img src="/images/about/calendar.png">
+                        <h4>周期</h4>
+                        <p><h6>拥有专业团队为您快速定制产品系统
+  结合丰富的生产经验，帮助客户迅速量产</h6></p>
+                    </div>
+
+                    <div class="img-circle-div1">
+                        <img src="/images/about/yanfa.png">
+                        <h4>研发</h4>
+                        <p><h6>依托苏州市重点实验室，团队实力雄厚
+  涉足嵌入式行业多年，项目经验积累厚实
+</h6></p>
+                    </div>
+
+                    <div class="img-circle-div1">
+                        <img src="/images/about/chengben.png">
+                        <h4>成本</h4>
+                        <p><h6>洞彻从立项、研发、制造的所有环节
+  精审成本开支,为客户提供缜密的成本控制</h6></p>
+                    </div>
+
+		   <div class="img-circle-div1">
+                        <img src="/images/about/chengshu.png">
+                        <h4>成熟</h4>
+                        <p><h6>久经考验的开发平台，秉承磐石般稳重的特性
+  最大限度的追求客户认可的可靠性平台
+</h6></p>
+                    </div>
+</section>
+
+
+
+<section >
+	<div style="background:#fff;text-align:center;">
+	<div style="padding-top:1px">	
+	<p><h2>昂信合作伙伴</h2></p>
+	</div>
+        <img src="/images/logo.jpg"></img>   
+	</div>
+</section>
+
+
+
+
+

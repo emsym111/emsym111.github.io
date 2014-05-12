@@ -1,0 +1,6 @@
+<ul class="nav">
+  <li><a href="{{ root_url }}/">首页</a></li>
+  <li><a href="http://manuals-git.readthedocs.org/zh_CN/latest/">文档教程</a></li>
+ <li><a href="{{ root_url }}/about/archives">关于我们</a></li>
+ <li><a href="{{ root_url }}/tec/service">技术服务</a></li>
+</ul>

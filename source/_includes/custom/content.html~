@@ -1,0 +1,38 @@
+
+
+
+<section class="call-to-action">
+            <div class="cta-container cf">
+                <p><h4>Astounding call to action?</h4></p>
+                <a class="btn" href="http://localhost:4000/docs/2/">Get Started </a>
+            </div>
+</section>
+
+<section id="three-images">
+            <div class="container">
+                <header class="body-header">
+                    <h2>You're probably feeling really inspired.</h2>
+                    <p><h3>Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</h3></p>
+                </header>
+                
+                    <div class="img-circle-div">
+                        <img src="images/process.png">
+                        <h4>Morbi in sem quis dui</h4>
+                        <p><h6>Aliquam erat volutpat. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</h6></p>
+                    </div>
+
+                    <div class="img-circle-div">
+                        <img src="images/process.png">
+                        <h4>Morbi in sem quis dui</h4>
+                        <p><h6>Aliquam erat volutpat. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</h6></p>
+                    </div>
+
+                    <div class="img-circle-div">
+                        <img src="images/prize_winner.png">
+                        <h4>Suspendisse commodo</h4>
+                        <p><h6>Aliquam erat volutpat. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</h6></p>
+                    </div>
+               
+            </div>
+</section>
+

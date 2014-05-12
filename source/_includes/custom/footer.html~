@@ -1,0 +1,15 @@
+<nav class="navbar navbar-inverse " role="navigation" style="text-align:center">
+	<div class="container" style="text-algin:center">
+	<div>
+	  	<div style="font: 18px arial">
+全国统一服务热线
+		<span style="color: #FF4100;font: 32px arial;">4000-168421</span>
+		</div>
+    	</div>
+
+	<div id="copyright" style="font: 18px arial">2009-2011 © 苏州昂信科技有限公司 EMSYM Corporation <br>
+做最开放的嵌入式系统开发平台！<br>
+	<a href="http://www.miibeian.gov.cn/">苏ICP备09077265号	</a>Based on <a href="http://octopress.org/">octopress</a>
+	</div>	
+        </div>
+</nav>

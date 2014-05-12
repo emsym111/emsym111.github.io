@@ -7,9 +7,11 @@ title:  做最开放的嵌入式系统开发平台
 <section id="summary" >
 	<div class="container">
                 <h2>JAZZ</h2>
-                <p><h3>It's responsive, beautiful, built with the latest code, includes all
-				front end files, and (best of all) it is and always will be free. Didn't even see that comin', didya?</h3></p>
-		<a class="btn" href="http://localhost:4000/about/archives">Button</a>
+                <p><h3>
+    在这个需求便携移动的时代，Jazz应运而生
+    锂电、WIFI以及丰富接口，令您的开发、学习拥有无限可能
+</h3></p>
+		<a class="btn" href="http://localhost:4000/about/emsym">Button</a>
             </div>
 </section>
 
@@ -17,11 +19,11 @@ title:  做最开放的嵌入式系统开发平台
 <section id="three-images">
             <div class="container">
                 <header class="body-header">
-                    <h1>EMSYM  昂信嵌入式</h1>
-                    <p><h2>创新的系统创造蓝海，我们为您变为现实 </br>嵌入式系统设计专家，可生产性倡导者</h2></p>
+                    <h2>EMSYM  昂信嵌入式</h2>
+                    <p><h3>创新的系统创造蓝海，我们为您变为现实 </br>嵌入式系统设计专家，可生产性倡导者</h3></p>
                 </header>
                 
-                    <div class="img-circle-div">
+                   <!-- <div class="img-circle-div">
                         <img src="images/process.png">
                         <h4>Morbi in sem quis dui</h4>
                         <p><h6>Aliquam erat volutpat. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</h6></p>
@@ -37,15 +39,18 @@ title:  做最开放的嵌入式系统开发平台
                         <img src="images/prize_winner.png">
                         <h4>Suspendisse commodo</h4>
                         <p><h6>Aliquam erat volutpat. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</h6></p>
-                    </div>
+                    </div>-->
                </div>
 </section>
 
 <section id="vision">
             <div class="container">
                 <h2>Blurr</h2>
-                <p><h3>It's responsive, beautiful, built with the latest code, includes all front end files, and (best of all) it is and always will be free. Didn't even see that comin', didya?</h3></p>
-		<a class="btn"  href="http://localhost:4000/about/archives">Button</a>
+                <p><h3>
+    在这个需求便携移动的时代，Jazz应运而生
+    锂电、WIFI以及丰富接口，令您的开发、学习拥有无限可能
+</h3></p>
+		<a class="btn"  href="http://localhost:4000/about/emsym">Button</a>
             </div>
 </section>
 

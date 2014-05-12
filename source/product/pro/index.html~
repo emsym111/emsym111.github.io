@@ -2,55 +2,64 @@
 layout: default
 ---
 
-<section id="four-images">
+<section id="projazz">
+            <section id="four-images">
             <div class="container">
                 <header class="body-header">
                     <h2 >产品展示</h2>
                     <p><h3>JAZZ核心板</h3></p>
                 </header>
                 
-                    <div class="img-circle-div">
-                        <img src="/images/product/1.png">
-                        <h4>Morbi in sem quis dui</h4>
-                        <p><h6>Aliquam erat volutpat. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</h6></p>
+                     <div class="img-circle-div">
+                        <img src="/images/product/interface.png">
+                        <h4>ARM 移动开发 Step1
+标配锂电池</h4>
+                        <p><h6>锂电 & 5V/DC双电源设计。
+便携的开发板，秀自己的风采。</h6></p>
                     </div>
 
                     <div class="img-circle-div">
-                        <img src="/images/product/2.png">
-                        <h4>Morbi in sem quis dui</h4>
-                        <p><h6>Aliquam erat volutpat. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</h6></p>
+                        <img src="/images/product/li-battery_large.png">
+                        <h4>ARM 移动开发 Step2
+WIFI网络</h4>
+                        <p><h6>紧随时代，板载WIFI。
+无线网络开发学习，就是这么简单。</h6></p>
                     </div>
 
-                    <div class="img-circle-div">
-                        <img src="/images/product/3.png">
-                        <h4>Suspendisse commodo</h4>
-                        <p><h6>Aliquam erat volutpat. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</h6></p>
+		     <div class="img-circle-div">
+                        <img src="/images/product/coreboard_large.png">
+                        <h4>ARM 移动开发 Step3
+丰富接口</h4>
+                        <p><h6>接口资源丰富。
+按键摇杆双手布局设计。</h6></p>
                     </div>
 
-		   
-               </div>
+</section>
 </section>
 
+
+<section id="proBlurr">
 <section id="four-images">
             <div class="container">
                 <header class="body-header">
+		   <h2 >产品展示</h2>
                   <p><h3>Blurr核心板</h3></p>
                 </header>
                 
                     <div class="img-circle-div">
-                        <img src="/images/product/1.png">
+                        <img src="/images/product/blurr.jpg">
                         <h4>Morbi in sem quis dui</h4>
                         <p><h6>Aliquam erat volutpat. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</h6></p>
                     </div>
 
                     <div class="img-circle-div">
-                        <img src="/images/product/2.png">
+                        <img src="/images/product/blurr1.jpg">
                         <h4>Morbi in sem quis dui</h4>
                         <p><h6>Aliquam erat volutpat. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</h6></p>
                     </div>
 
                     <div class="img-circle-div">
-                        <img src="/images/product/3.png">
+                        <img src="/images/product/blurr2.jpg">
                         <h4>Suspendisse commodo</h4>
                         <p><h6>Aliquam erat volutpat. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.</h6></p>
                     </div>
@@ -58,7 +67,22 @@ layout: default
 		   
                </div>
 </section>
+</section>			
+
+
+<section id="color2">
+<section id="four-images">
+            <div class="container">
+                <header class="body-header">
+                    <h2 >技术服务</h2>
+                    <p><h3>JAZZ核心板</h3></p>
+                </header>
+                
+                  
+		   
+               </div>
+</section>
+</section>	
 				
 				
-						
 
